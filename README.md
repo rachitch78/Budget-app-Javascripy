@@ -1,2 +1,2 @@
 # Budget-app-Javascript
-A budget calculator app made with java script
+A budget calculator app made with javascript
